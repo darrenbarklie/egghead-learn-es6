@@ -8,3 +8,7 @@ https://egghead.io/courses/learn-es6-ecmascript-2015
 &nbsp;
 
 ## Installation
+
+```bash
+node [n-lesson-filename].js
+```
