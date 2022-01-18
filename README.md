@@ -3,11 +3,11 @@
 https://egghead.io/courses/learn-es6-ecmascript-2015
 
 - Started: **4 January 2022**
-- Completed:
+- Completed: **18 January 2022**
 
 &nbsp;
 
-## Installation
+## Run
 
 ```bash
 node [n-lesson-filename].js
